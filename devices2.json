@@ -1,0 +1,9 @@
+{
+    "ip": "172.17.1.206",
+    "port": 22,
+    "username": "admin",
+    "password": "admin",
+    "device_type": "cisco_nxos",
+    "model_type": "nexus_9000"
+}
+
